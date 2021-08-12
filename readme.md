@@ -1,5 +1,9 @@
 # Unlimited Pop Works
-## DOWNLOAD HERE >> https://github.com/stegng2010/unlimitedPopWorks/releases/download/1/popcat.exe
+### DOWNLOAD HERE >> 
+
+V1 Stable: https://github.com/stegng2010/unlimitedPopWorks/releases/download/1/popcat.exe
+
+V1.1 Beta: https://github.com/stegng2010/unlimitedPopWorks/releases/download/1.1/popcat.ex
 
 You know about pop cat?
 
