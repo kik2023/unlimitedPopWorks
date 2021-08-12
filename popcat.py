@@ -1,5 +1,7 @@
 import os, sys
 
+from webdriverUpdater import updateDriver
+
 from selenium import webdriver
 
 if getattr(sys, 'frozen', False):
@@ -20,9 +22,7 @@ try:
     while stop is False:
         cat.click()
 except Exception:
-    print("Please create a folder called 'webdriver' and place it beside your exe, then google for chromedriver and download it, put it inside the folder."
-          "Close and restart this application once done")
-    input()
+    updateDriver(f"{path}/webdriver/")
 
 
 
